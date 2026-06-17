@@ -1,4 +1,0 @@
-[ 2026-06-14 15:15:30,947 ] 52 root - INFO - Data Ingestion Started
-[ 2026-06-14 15:15:31,004 ] 83 root - INFO - Raw dataset saved
-[ 2026-06-14 15:15:31,045 ] 103 root - INFO - Train Test Split Completed
-[ 2026-06-14 15:15:31,206 ] 174 root - INFO - Preprocessor Saved
